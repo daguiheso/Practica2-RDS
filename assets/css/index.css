@@ -3,6 +3,12 @@ body, html {
 	font-size: 16px;
 }
 
+/*UTILIDADES*/
+.u-dash {
+	text-align: center;
+	color: #fff;
+}
+
 /*HEADER*/
 header {
 	background: white;
@@ -36,5 +42,32 @@ header {
 	text-align: center;
 }
 
+/*ABOUT*/
+.about {
+	width: 74%;
+	margin: 0 auto;
+}
 
+.about-title {
+	font-size: 2.2em;
+	text-align: center;
+}
+
+.about-text {
+	text-align: center;
+}
+
+.about-contentCols {
+	display: flex;
+	justify-content: space-around;
+}
+
+.about-contentCols-col {
+	width: 30%;
+}
+
+.about-contentCols-col .img {
+	width: 100%;
+	margin-bottom: 30px;
+}
 
