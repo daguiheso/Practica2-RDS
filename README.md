@@ -38,7 +38,7 @@
 * GULPJS => Automatiza tareas (compila, minifica, concatena archivos y mucho más)
 * BROWSER-SYNC => Crea un servidor local y refresca navegador automaticamente en todos los dispositivos.
 
-###Pasos para implementar
+###Paso a Paso para implementar
 
 1. Abrir CMD/consola como administrador, ejecutar elsiguiente comando, esperar a que termine sin errores y cerrar consola
     
@@ -46,7 +46,7 @@
    
 2. Ir a visual code, abrir terminal en **menu** > **ver** > **terminal integrado** ,ejecutar comando y esperar a que termine:
 
-    `$ npm init --yes`
+    `$ npm init --yes` o `$ npm init` en caso de que no funcione el primer comando
     
    Este comando creara automaticamente un archivo llamado **package.json** en la raiz de nuestro proyecto, es un archivo de tipo informativo, donde se ven datos basicos de nuestro proyecto (nombre, autor, licencia) ademas de las dependencias (librerias requeridas) de de este.
     
