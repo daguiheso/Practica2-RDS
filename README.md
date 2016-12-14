@@ -52,10 +52,10 @@
     
 3. En la misma terminal de visual code ejecutar el comando:
 
-    `$ npm i gulp gulp-sass browser-sync`
+    `$ npm i gulp gulp-sass browser-sync --save`
     
     
-   Con este comando estamos instalando las 3 librerias al tiempo, cuando se termine este proceso en consola, notamos que en nuestro archivo **package.json** se han agregado estas librerias.
+   Con este comando estamos instalando las 3 librerias al tiempo, cuando se termine este proceso en consola, notamos que en nuestro archivo **package.json** se han agregado estas librerias y ademas se ha creado una carpeta node_modules en la raiz del proyecto.
 
 
 4. Agregar archivo [gulpfile.js](https://raw.githubusercontent.com/daguiheso/Practica1-RDS/master/gulpfile.js) y [.gitignore] (https://raw.githubusercontent.com/daguiheso/Practica2-RDS/master/.gitignore) en la raiz del proyecto.
