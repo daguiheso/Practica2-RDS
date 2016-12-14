@@ -15,7 +15,7 @@
 
   - ####Configuración
    
-      Parametros de identacion, alineacion y demas configuraciones basicas para visual code, se debe copiar y pegar en el editor
+      Parametros de identacion, alineacion, tabs, y demas configuraciones basicas para visual code, se debe copiar y pegar en el editor
  => [ver](https://gist.github.com/daguiheso/3324b6df821ecb4f73b5166a6fb816c0)
  
 ***
