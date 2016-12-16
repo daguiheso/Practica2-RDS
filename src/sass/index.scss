@@ -79,3 +79,59 @@ body, html {
 		}
 	}
 }
+
+// PREMIUM
+.premium {
+	width: 95%;
+	margin: 0 auto;
+	&-title {
+		font-size: 2.2em;
+		text-align: center;
+	}
+	&-text {
+		text-align: center;
+	}
+	&-contentCards {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		text-align: center;
+		&-card {
+			max-width: 32.5%;
+			text-align: center;
+			margin-bottom: 40px;
+			.img {
+				width: 100%;
+			}
+			.subtitle {
+				font-size: 1.25em;
+				font-weight: normal;
+				margin: 10px 0 0;
+				color: #898989;
+			}
+			.text {
+				color: #898989;
+				font-size: .9em;
+			}
+			.title {
+				font-size: 1.5em;
+				margin: 0;
+			}
+			.contentButtons {
+				&-button {
+					border-radius: 20px;
+					border: 1px solid #898989;
+					background: #fff;
+					padding: 8px 14px;
+					color: #898989;
+					font-size: 0.8em;
+					&:nth-child(2) {
+						background: gray;
+						color: white;
+
+					}
+				}
+			}
+		}
+	}
+}
