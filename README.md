@@ -38,6 +38,10 @@
 * GULPJS => Automatiza tareas (compila, minifica, concatena archivos y mucho más)
 * BROWSER-SYNC => Crea un servidor local y refresca navegador automaticamente en todos los dispositivos.
 
+###FONT AWENSOME
+
+  Icon fonts libreria. [link] (http://fontawesome.io/icons/)
+
 ###Paso a Paso para implementar
 
 1. Abrir CMD/consola como administrador, ejecutar elsiguiente comando, esperar a que termine sin errores y cerrar consola
