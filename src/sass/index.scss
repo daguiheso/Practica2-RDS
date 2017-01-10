@@ -8,7 +8,7 @@ body, html {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	width: 30%;
+	width: 187px;
 	margin: 0 auto;
 	&:after {
 		width: 40%;
@@ -53,6 +53,10 @@ body, html {
 	justify-content: center;
 	align-items: center;
 	position: relative;
+	.u-dash {
+		color: white;
+		width: 336px;
+	}
 	&-title {
 		font-size: 4em;
 	}
